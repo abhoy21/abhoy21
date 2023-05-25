@@ -13,7 +13,7 @@
 <a href="https://fb.com/rohan.sarkar.18294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohan.sarkar.18294" height="30" width="40" /></a>
 <a href="https://instagram.com/yourflickbong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yourflickbong" height="30" width="40" /></a>
 <a href="https://www.behance.net/abhoysarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="abhoysarkar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abhoy007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhoy007" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/abhoy007" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="abhoy007" height="30" width="40" /></a>
 </p>
 <br>
 
