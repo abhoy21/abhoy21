@@ -1,6 +1,5 @@
-# Hi there, I am Abhoy👋
-
-*A CSE(AI-ML) student from India.*
+<h1 align="center">Hi 👋, I'm Abhoy</h1>
+<h3 align="center">A CSE(AI-ML) student from India.</h3>
 
 
 # 💫 About Me:
