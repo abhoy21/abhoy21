@@ -1,5 +1,4 @@
-# Hi there,
-I am Abhoy,
+# Hi there, I am Abhoy👋
 
 
 # 💫 About Me:
