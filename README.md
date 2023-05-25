@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhoy</h1>
-*<h3 align="center">A CSE(AI-ML) student from India.</h3>*
+<i><h3 align="center">A CSE(AI-ML) student from India.</h3></i>
 
 
 # 💫 About Me:
