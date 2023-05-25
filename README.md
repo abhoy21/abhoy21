@@ -4,7 +4,7 @@ A CSE(AI-ML) student from India.
 
 
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning Projects<br>👯 I’m looking to collaborate on App Development<br>🤝 I’m looking for help with Coding tips and new technologies<br>🌱 I’m currently learning Flutter Development<br>💬 Ask me about ?<br>⚡ Fun fact If it don't make Dollars, It don't make Sense
+-> 🔭 I’m currently working on Machine Learning Projects<br>-> 👯 I’m looking to collaborate on App Development<br>-> 🤝 I’m looking for help with Coding tips and new technologies<br>-> 🌱 I’m currently learning Flutter Development<br>-> 💬 Ask me about ?<br>-> ⚡ Fun fact If it don't make Dollars, It don't make Sense
 
 
 ## 🌐 Socials:
