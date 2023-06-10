@@ -14,7 +14,7 @@
 <a href="https://instagram.com/yourflickbong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yourflickbong" height="30" width="40" /></a>
 <a href="https://www.behance.net/abhoysarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="abhoysarkar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/abhoy007" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="abhoy007" height="60" width="70" /></a>
-<a href="https://leetcode.com/user4322eu" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="user4322eu" height='60" width="70" /></a>
+<a href="https://leetcode.com/user4322eu/" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="user4322eu" height='60" width="70" /></a>
 </p>
 
 # 💻 Tech Stack:
