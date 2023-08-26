@@ -3,16 +3,26 @@
 
 
 # 💫 About Me:
--> 🔭 I’m currently working on Machine Learning Projects<br>-> 👯 I’m looking to collaborate on App Development<br>-> 🤝 I’m looking for help with Coding tips and new technologies<br>-> 🌱 I’m currently learning Flutter Development<br>-> 📫 How to reach me **sarkar.ab07@gmail.com**<br>-> 💬 Ask me about ?<br>-> ⚡ Fun fact If it don't make Dollars, It don't make Sense
+- 🔭 I’m currently working on **Web Development**
+
+- 🌱 I’m currently learning **Django**
+
+- 👯 I’m looking to collaborate on **App Development / Machine Learning**
+
+- 🤝 I’m looking for help with **Coding tips and new technologies**
+
+- 💬 Ask me about **?**
+
+- 📫 How to reach me **sarkar.ab07@gmail.com**
+
+- ⚡ Fun fact **If it don't make Dollars, It don't make Sense**
 <br>
 
-# 🌐 Connect with me:
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yourflickbong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourflickbong" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhoy-sarkar-a7b23a201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhoy-sarkar-a7b23a201" height="30" width="40" /></a>
-<a href="https://fb.com/rohan.sarkar.18294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohan.sarkar.18294" height="30" width="40" /></a>
-<a href="https://instagram.com/yourflickbong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yourflickbong" height="30" width="40" /></a>
-<a href="https://www.behance.net/abhoysarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="abhoysarkar" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/abhoy007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhoy007" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user4322eu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user4322eu" height="30" width="40" /></a>
 </p>
 <br>
