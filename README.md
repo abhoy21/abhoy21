@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhoy</h1>
 <i><h3 align="center">A CSE(AI-ML) student from India.</h3></i>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourflickbong&label=Profile%20views&color=0e75b6&style=flat" alt="yourflickbong" /> </p>
+
 
 # 💫 About Me:
 - 🔭 I’m currently working on **Web Development**
