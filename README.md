@@ -33,9 +33,9 @@
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yourflickbong&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yourflickbong&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourflickbong&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=abhoy21&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhoy21g&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhoy21&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -48,7 +48,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yourflickbong&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=abhoy21&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yourflickbong&icon=2&color=9)](https://visitcount.itsvg.in)
