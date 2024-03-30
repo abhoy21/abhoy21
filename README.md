@@ -1,4 +1,4 @@
-<img src="https://pin.it/7bAuef3MD" alt="header image" />
+<img src="https://pin.it/7bAuef3MD" alt="header image](https://drive.google.com/file/d/1MvweVpDRR2_PjD51cYDiTCYtJbUyWnYB/view?usp=drive_link" />
 
 <h1 align="center">Hi 👋, I'm Abhoy Sarkar</h1>
 <h3 align="center">Hey there! I'm an enthusiastic software engineering student with a knack for crafting user-friendly web applications that seamlessly blend creativity and functionality. With a focus on web development, I bring expertise in creating dynamic and efficient solutions tailored to diverse development needs. Let's connect and build something awesome together! 💻✨</h3>
