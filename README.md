@@ -48,6 +48,12 @@
         <br>JavaScript
       </a>
     </td>
+    <td align="center" width="96">
+      <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+        <br>Redux
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
