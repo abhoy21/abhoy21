@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sarkar.ab07@gmail.com**
   
-- You can view my resume and learn more about my experiences [here](https://drive.google.com/file/d/1AXK0WlnUTxqQ6y5Iur_BHRNyTe1LzlgP/view?usp=sharing).
+- 📄 You can view my resume and learn more about my experiences [here](https://drive.google.com/file/d/1AXK0WlnUTxqQ6y5Iur_BHRNyTe1LzlgP/view?usp=sharing).
 
 <h3 align="left">Check out:</h3>
 <p align="left">
