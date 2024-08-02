@@ -56,6 +56,12 @@
         <br>Redux
       </a>
     </td>
+    <td align="center" width="96">
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+        <br>Docker
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
