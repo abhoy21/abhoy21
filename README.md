@@ -8,6 +8,8 @@
 - 👨‍💻 All of my projects are available at [https://abhoy-sarkar.vercel.app/](https://abhoy-sarkar.vercel.app/)
 
 - 📫 How to reach me **sarkar.ab07@gmail.com**
+  
+- You can view my resume and learn more about my experiences [here]([https://example.com/path/to/your/resume.pdf](https://drive.google.com/file/d/1AXK0WlnUTxqQ6y5Iur_BHRNyTe1LzlgP/view?usp=sharing)).
 
 <h3 align="left">Check out:</h3>
 <p align="left">
