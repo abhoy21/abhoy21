@@ -5,7 +5,7 @@
 
 - 🔭 I'm familiar with **C++, Python**
 
-- 👨‍💻 All of my projects are available at [https://abhoy-sarkar.vercel.app/](https://abhoy-sarkar.vercel.app/)
+- 👨‍💻 All of my projects are available at [my_portfolio/abhoy](https://abhoy-sarkar.vercel.app/)
 
 - 📫 How to reach me **sarkar.ab07@gmail.com**
   
