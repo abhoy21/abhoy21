@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sarkar.ab07@gmail.com**
   
-- 📄 You can view my resume and learn more about my experiences [here](https://drive.google.com/file/d/1oOOW36uyOZRYmXysU3C_9MP55vqzbMs4/view?usp=sharing).
+- 📄 You can view my resume and learn more about my experiences [here](https://drive.google.com/file/d/1c-LJV2TUvaGes3ygd0s-gGwLL-rckJGQ/view?usp=sharing).
 
 <h3 align="left">Languages and Tools:</h3>
 <table align="left">
