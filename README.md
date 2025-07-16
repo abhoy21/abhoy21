@@ -10,9 +10,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [my_portfolio/abhoy](http://www.abhoy.xyz/)
-
 - 📫 How to reach me: **sarkar.ab07@gmail.com**
-
 - 📄 You can view my resume and learn more about my experiences [here](https://drive.google.com/file/d/1c-LJV2TUvaGes3ygd0s-gGwLL-rckJGQ/view?usp=sharing)
 
 ---
@@ -52,13 +50,12 @@
       </a>
     </td>
   </tr>
-  
   <tr>
     <td align="center" width="96">
-       <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-      <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40" style="background-color: white; border-radius: 8px; padding: 4px;" />
-      <br>NestJS
-    </a>
+      <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+        <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40" style="background-color: white; border-radius: 8px; padding: 4px;" />
+        <br>NestJS
+      </a>
     </td>
     <td align="center" width="96">
       <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
@@ -85,8 +82,13 @@
       </a>
     </td>
   </tr>
-  
   <tr>
+    <td align="center" width="96">
+      <a href="https://redis.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" />
+        <br>Redis
+      </a>
+    </td>
     <td align="center" width="96">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
@@ -111,15 +113,14 @@
         <br>Docker
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" />
         <br>Nginx
       </a>
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="96">
       <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
