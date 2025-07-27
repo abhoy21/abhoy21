@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Abhoy Sarkar</h1>
-<h3 align="center">I'm a full-stack engineer from India.</h3>
+<h3 align="center">Full‑stack Engineer from India.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abhoy21&label=Profile%20views&color=0e75b6&style=flat" alt="abhoy21 profile views" />
