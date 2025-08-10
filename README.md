@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Abhoy Sarkar</h1>
-<h3 align="center">Full‑stack Engineer from India.</h3>
+<h3 align="center">Engineer from India.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abhoy21&label=Profile%20views&color=0e75b6&style=flat" alt="abhoy21 profile views" />
@@ -19,6 +19,12 @@
 
 <table align="left">
   <tr>
+    <td align="center" width="96">
+      <a href="https://go.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40" />
+        <br>Golang
+      </a>
+    </td>
     <td align="center" width="96">
       <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
@@ -43,14 +49,14 @@
         <br>React
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
         <br>Next.js
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
         <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40" style="background-color: white; border-radius: 8px; padding: 4px;" />
@@ -75,14 +81,14 @@
         <br>MongoDB
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
         <img src="https://www.svgrepo.com/show/374002/prisma.svg" alt="Prisma" width="40" height="40" />
         <br>Prisma
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://redis.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" />
@@ -107,14 +113,14 @@
         <br>Turborepo
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
         <br>Docker
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" />
