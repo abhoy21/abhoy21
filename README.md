@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [my_portfolio/abhoy](http://www.abhoy.xyz/)
 - 📫 How to reach me: **sarkar.ab07@gmail.com**
-- 📄 You can view my resume and learn more about my experiences [here](https://drive.google.com/file/d/1X1OFbgGb1mIGYJkjNYW4AWDw_07_dv2u/view?usp=sharing)
+- 📄 You can view my resume and learn more about my experiences [here](https://drive.google.com/file/d/1Jb0oby1T9AmrDjevUKoBsfpthRXjM2bZ/view?usp=sharing)
 
 ---
 
