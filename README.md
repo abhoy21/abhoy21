@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=abhoy21&label=Profile%20views&color=0e75b6&style=flat" alt="abhoy21 profile views" />
 </p>
 
-- 👨‍💻 All of my projects are available at [my_portfolio/abhoy](http://www.abhoy.xyz/)
+- 👨‍💻 All of my projects are available at [my_portfolio/abhoy](https://www.abhoys.online/)
 - 📫 How to reach me: **sarkar.ab07@gmail.com**
 - 📄 You can view my resume and learn more about my experiences [here](https://drive.google.com/file/d/1Jb0oby1T9AmrDjevUKoBsfpthRXjM2bZ/view?usp=sharing)
 
